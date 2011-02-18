@@ -19,12 +19,15 @@ body{
   background-color: #83d6c3;
 }
 
+h2,h3,h4{
+  font-family: 'PT Sans', arial, serif;
+}
+
 p{
   margin: 15px 0;
 }
 
 .b-caption{
-  font-family: 'PT Serif Caption', arial, serif;
   text-align: center;
   margin: 60px 0;
 }
