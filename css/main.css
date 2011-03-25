@@ -19,6 +19,11 @@ body{
   background-color: #83d6c3;
 }
 
+body.wtf{
+  background-color: #E7AFAD;
+  font-size: 70em;
+}
+
 h2,h3,h4{
   font-family: 'PT Sans', arial, serif;
 }
@@ -36,3 +41,12 @@ p{
   font-size: 4.2em;
   line-height: 1.3em;
 }
+
+.whoa{
+  font-family: 'PT Serif', serif;
+  font-size: 70em;
+/*  color: #D1DDF8;*/
+  color: #fff;
+  text-align: center;
+}
+
