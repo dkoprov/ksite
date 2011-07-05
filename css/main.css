@@ -21,7 +21,7 @@ body{
 
 body.wtf{
   background-color: #E7AFAD;
-  font-size: 70em;
+  font-size: 50em;
 }
 
 h2,h3,h4{
@@ -43,8 +43,6 @@ p{
 }
 
 .whoa{
-  font-family: 'PT Serif', serif;
-  font-size: 70em;
 /*  color: #D1DDF8;*/
   color: #fff;
   text-align: center;
