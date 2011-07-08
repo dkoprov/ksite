@@ -42,6 +42,11 @@ p{
   line-height: 1.3em;
 }
 
+.description {
+  display: inline-block;
+  width: 700px;
+}
+
 .whoa{
 /*  color: #D1DDF8;*/
   color: #fff;
