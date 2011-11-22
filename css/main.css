@@ -39,8 +39,7 @@ p{
 }
 
 .b-caption h1{
-  font-size: 4.2em;
-  line-height: 1.3em;
+  font-size: 3.2em;
 }
 
  ul.b-menu {
@@ -54,7 +53,7 @@ p{
   padding:5px 0;
   line-height:2em;
   text-align:center;
-  width: 16.6%;//14%;
+  width: 14%;
 }
 
 .b-menu li a{
@@ -100,7 +99,6 @@ p{
   height:440px;
   vertical-align:middle;
   width:50%;
-  padding-left: 10%;
 }
 
 .rightmenu ul{
@@ -112,8 +110,9 @@ p{
 
 .rightmenu a{
   color:#333;
-  font-size:1.4em;
+  font-size:2.4em;
   font-variant:small-caps;
+  line-height: 1.2em;
 }
 
 .b-story{
@@ -132,12 +131,30 @@ p{
   padding: 0 1em ;
 }
 .works td{
-  padding: 10px 15px;
+  padding: 30px 10px 0;
+  vertical-align:top;
+  text-align:justify;
+}
+
+.works .image {
+vertical-align:top;
+}
+
+.works .w-name{
+font-weight:bold;
+margin-top:0;
+}
+
+.works .links{
+padding: 0 10px;
 }
 
 .description {
   display: inline-block;
   width: 700px;
+}
+.chronology{
+text-align:justify;
 }
 
 .chronology p{
@@ -151,6 +168,7 @@ p{
 
 .publications li{
   margin: 0.5em 0;
+text-align:justify;
 }
 /*.whoa{
 //  color: #D1DDF8;
