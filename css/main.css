@@ -1,15 +1,15 @@
 body{
-  font-family: 'PT Serif', arial, serif;
+  font-family: Georgia, serif;
   line-height: 1.3em;
   position: relative;
   max-width: 960px;
   width: 80%;
   margin: auto;
-  background-color: #ECF4E3;
+  /*background-color: #ECF4E3;*/
 }
 
 h2,h3,h4{
-  font-family: 'PT Sans', arial, serif;
+  font-family: Verdana, arial, sans-serif;
 }
 
 p{
